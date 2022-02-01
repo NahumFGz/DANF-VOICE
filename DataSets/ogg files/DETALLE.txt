@@ -1,0 +1,13 @@
+Cada carpeta contiene:
+1) Audio de voz de sujeto 1 (audio_sujeto_1.ogg)
+2) Audio de voz de sujeto 2 (audio_sujeto_2.ogg)
+3) Audio de ruido de fondo (audio_ruido.ogg)
+4) Audio de la conversación combinada(audio_conversacion.ogg) en stereo
+
+carpetas:
+audio_ogg_001 - audio_ogg_050: conversaciones mixtas	| (001-020)tt (021-040)tr (041-050)cv
+audio_ogg_051 - audio_ogg_100: conversaciones mujeres	| (051-070)tt (071-080)tr (081-100)cv
+audio_ogg_101 - audio_ogg_150: conversaciones varones	| (101-110)tt (111-130)tr (131-150)cv
+
+Nota 1: todos los audios están en formato .ogg
+Nota 2: WHAM se separa en 3 tipos de ruido: tt, tr, cv
